@@ -36,8 +36,8 @@ img {
   height: auto;
 }
 input {
+  width: 360px;
   border: none;
-
   border: 1px solid #808080;
   border-radius: 8px;
   padding: 8px 16px;
@@ -137,12 +137,6 @@ button:focus {
 }
 
 /* TASK-3 */
-input {
-  /* margin-top: 24px;
-  margin-bottom: 16px; */
-  padding: 8px 16px;
-  width: 360px;
-}
 
 h1 {
   font-weight: 600;
